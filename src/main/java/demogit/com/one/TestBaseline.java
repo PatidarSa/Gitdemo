@@ -7,5 +7,10 @@ public class TestBaseline {
 		
 		System.out.print("Radhe Radhe");
 	}
+	public void print123()
+	{
+		
+		System.out.print("Radhe Radhe");
+	}
 
 }
