@@ -10,4 +10,10 @@ public class motuu {
 		
 		System.out.print("Jay shree ram");
 	}
+	
+	public void ten11()
+	{
+		
+		System.out.print("Jay shree ram");
+	}
 }
